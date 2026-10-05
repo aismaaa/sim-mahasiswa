@@ -3,9 +3,9 @@
 Aplikasi console-based untuk mengelola data mahasiswa pada Program Studi Sistem Informasi.
 
 ## Identitas
-- **Nama**: [Aisma Haidy Putri Berry Ani Nur Rizeki]
-- **NIM**: [20241320001]
-- **Kelas**: [Sistem Informasi A1]
+- **Nama**: Aisma Haidy Putri Berry Ani Nur Rizeki
+- **NIM**: 20241320001
+- **Kelas**: Sistem Informasi A1
 
 ## Fitur
 - Tambah data mahasiswa (NIM, nama, prodi, angkatan, IPK)
