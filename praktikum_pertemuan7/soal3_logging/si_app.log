@@ -1,0 +1,5 @@
+2026-11-08 22:38:55 | DEBUG    | si_akademik | Query SQL: SELECT * FROM mahasiswa WHERE nim='2021001'
+2026-11-08 22:38:55 | INFO     | si_akademik | User 'admin' berhasil login ke sistem.
+2026-11-08 22:38:55 | WARNING  | si_akademik | Penggunaan memori server mencapai 85%.
+2026-11-08 22:38:55 | ERROR    | si_akademik | Gagal mengirim notifikasi email ke dosen@univ.ac.id
+2026-11-08 22:38:55 | CRITICAL | si_akademik | Koneksi database utama terputus!
